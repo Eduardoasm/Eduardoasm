@@ -4,6 +4,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="![](https://komarev.com/ghpvc/?username=Eduardoasm&color=brightgreen&style=flat-square)"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Eduardoasm&color=brightgreen&style=flat-square"
     alt="adam-pw" /> 
   </p>
