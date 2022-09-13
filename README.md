@@ -9,6 +9,10 @@
 
 - 📫 Como contactarme **eduardoasm19@gmail.com**
 
+- 📫 Puedes ver mi [curriculum vitae](https://drive.google.com/file/d/1y6PASzQlQsoojHC2WdxQR2Yfc_55MzCx/view?usp=sharing) para obtener mas informacion
+
+- ✅ tambien puedes visitar mi LinkedIn <a href="https://www.linkedin.com/in/eduardo-sequeira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eduardo Sequeira" height="30" width="40" /></a> 
+
 
 <br>
 
@@ -31,7 +35,7 @@
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=Express&color=blue)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=for-the-badge&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&color=green)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&color=success)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&color=success)&nbsp;
 
 <br>
