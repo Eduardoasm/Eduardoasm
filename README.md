@@ -22,7 +22,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Eduardoasm/Eduardoasm/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Eduardoasm/Eduardoasm/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width='410px' height='300px'/></p>
 
 ### 🛠 &nbsp;Tecnologias
 
@@ -39,14 +39,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br>
-
-
-
-
-
-
-
-
 
 
 ## Solo una serpiente 🐍 Devorando mis contribuciones...😭
