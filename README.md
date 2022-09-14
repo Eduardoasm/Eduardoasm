@@ -50,7 +50,9 @@
 
 ## Proyectos
 * Musicfy. Es una App web de streaming de música, que permite como usuario escuchar on Demand, tiene sistema de registro y login tanto para el usuario como para el administrador, sistema de autenticación de usuario, una pasarela de pagos con Mercado Pago integrada, el usuario puede importar tanto su avatar de preferencia como su mp3. La app fue desarrollada por un equipo de 7 integrantes. Desarrollar esta app fue un desafio, pudimos implementar sistemas que no se habian manejado, pero con esfuerzo y dedicacion se pudo realizar.
-Integrantes: @gszcode @Ja-casn @TM10YMhp @hugok2k @ElamCano @Kosovomba
+Integrantes: 
+## @gzscode
+@Ja-casn @TM10YMhp @hugok2k @ElamCano @Kosovomba
 
 
 * Link a Musicfy https://app-musicfy.vercel.app/
