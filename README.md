@@ -33,6 +33,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=Express)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=for-the-badge&logo=sequelize)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=for-the-badge&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
