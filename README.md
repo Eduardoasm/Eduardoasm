@@ -62,3 +62,14 @@ Integrantes:
 <img src='./musicfy/premium.png' width='410px' height='220px' />
 <img src='./musicfy/profile.png' width='410px' height='220px' />
 </div>
+
+* FoodApp! Single Page Application realizada como proyecto individual, cuenta con barra de busqueda, filtrados, detalle de cada país y paginación. Tecnologías utilizadas: Front-End: React, Redux, CSS Puro.
+JavaScript. Back-End: NodeJs, ExpressJs, Sequelize.  Deploy: Heroku y Vercel. Data Base: PostgreSQL. Control de versiones: Git/GitHub. Mi desafio en esta App fue poder conectar todos los conocimientos tanto del back como de el front.
+
+* Link a FoodApp https://pi-recipe-book.vercel.app/
+<div display='flex' flex-direction='row' margin-bottom='30px'> 
+<img src='./piFood/foto1pi.png' width='410px' height='220px' />
+<img src='./piFood/foto2pi.png' width='410px' height='220px' />
+<img src='./piFood/foto3pi.png' width='410px' height='220px' />
+<img src='./piFood/foto4pi.png' width='410px' height='220px' />
+</div>
