@@ -27,15 +27,32 @@
 ### 🛠 &nbsp;Tecnologias
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6&color=green)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=success)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&color=yellowgreen)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&color=orange)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&color=red)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=Express&color=blue)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=Express)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=for-the-badge&logo=mongodb)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&color=green)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&color=success)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br>
+
+## Solo una serpiente 🐍 Devorando mis contribuciones...😭
+![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+
+<br>
+
+## Proyectos
+* Musicfy. Es una App web de streaming de música, que permite como usuario escuchar on Demand, tiene sistema de registro y login tanto para el usuario como para el administrador, sistema de autenticación de usuario, una pasarela de pagos con Mercado Pago integrada, el usuario puede importar tanto su avatar de preferencia como su mp3. La app fue desarrollada por un equipo de 7 integrantes. Desarrollar esta app fue un desafio, pudimos implementar sistemas que no se habian manejado, pero con esfuerzo y dedicacion se pudo realizar.
+
+
+* Link a Musicfy https://app-musicfy.vercel.app/
+<div display='flex' flex-direction='row' margin-bottom='30px'> 
+<img src='./musicfyApp-pfGroup.png' width='410px' height='220px' />
+<img src='./musicfy/homepage2.png' width='410px' height='220px' />
+<img src='./musicfy/premium.png' width='410px' height='220px' />
+<img src='./musicfy/profile.png' width='410px' height='220px' />
+</div>
