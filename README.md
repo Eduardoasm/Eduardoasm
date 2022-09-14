@@ -43,16 +43,17 @@
 <br>
 
 
+## 
 ## Solo una serpiente 🐍 Devorando mis contribuciones...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
 <br>
 
 ## Proyectos
+<h3 align="center">Musicfy App</h3>
 * Musicfy. Es una App web de streaming de música, que permite como usuario escuchar on Demand, tiene sistema de registro y login tanto para el usuario como para el administrador, sistema de autenticación de usuario, una pasarela de pagos con Mercado Pago integrada, el usuario puede importar tanto su avatar de preferencia como su mp3. La app fue desarrollada por un equipo de 7 integrantes. Desarrollar esta app fue un desafio, pudimos implementar sistemas que no se habian manejado, pero con esfuerzo y dedicacion se pudo realizar.
 Integrantes: 
-## @gzscode
-@Ja-casn @TM10YMhp @hugok2k @ElamCano @Kosovomba
+
 
 
 * Link a Musicfy https://app-musicfy.vercel.app/
@@ -63,10 +64,14 @@ Integrantes:
 <img src='./musicfy/profile.png' width='410px' height='220px' />
 </div>
 
-* FoodApp! Single Page Application realizada como proyecto individual, cuenta con barra de busqueda, filtrados, detalle de cada país y paginación. Tecnologías utilizadas: Front-End: React, Redux, CSS Puro.
+##
+
+<h3 align="center">Recipe Book</h3>
+
+* Recipe Book, Single Page Application realizada como proyecto individual, cuenta con barra de busqueda, filtrados, detalle de cada país y paginación. Tecnologías utilizadas: Front-End: React, Redux, CSS Puro.
 JavaScript. Back-End: NodeJs, ExpressJs, Sequelize.  Deploy: Heroku y Vercel. Data Base: PostgreSQL. Control de versiones: Git/GitHub. Mi desafio en esta App fue poder conectar todos los conocimientos tanto del back como de el front.
 
-* Link a FoodApp https://pi-recipe-book.vercel.app/
+* Link a Recipe Book https://pi-recipe-book.vercel.app/
 <div display='flex' flex-direction='row' margin-bottom='30px'> 
 <img src='./piFood/foto1pi.png' width='410px' height='220px' />
 <img src='./piFood/foto2pi.png' width='410px' height='220px' />
