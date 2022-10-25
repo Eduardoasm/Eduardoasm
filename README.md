@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Eduardo Sequeira</h1>
-<h3 align="center">Full Stack Developer enfocado en Front end</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🌱 Actualmente estoy en constante aprendizaje de desarrollo web y otros lenguajes de programacion
 
