@@ -3,9 +3,7 @@
 
 - 🌱 Actualmente estoy en constante aprendizaje de desarrollo web y otros lenguajes de programacion
 
-- ✅ Buscando oportunidades y colaboraciones en el campo de desarrollo web.
-
-- 💪 Buscando oportunidades para trabajar en entornos desafiantes y superar mis límites.
+- 💪 Enfocado en superar mis límites.
 
 - 📫 Como contactarme **eduardoasm19@gmail.com**
 
